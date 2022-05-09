@@ -1,6 +1,7 @@
 # todoey_provider
 
-A new Flutter project.
+A todo app with provider state management. 
+Trying to learn provider 
 
 ## Getting Started
 
